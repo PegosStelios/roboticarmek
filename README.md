@@ -1,3 +1,3 @@
 # roboticarmek
-Robotic Arm Project Μητρόπολη Λαγκαδά
-Στέλιος Πέγος - Αναστάσης Βαρβαλιός
+Robotic Arm Project Μητρόπολη
+Στέλιος Πέγος
