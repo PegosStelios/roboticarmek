@@ -1,3 +1,3 @@
 # roboticarmek
-Robotic Arm Project Μητρόπολη
+Robotic Arm Project
 Στέλιος Πέγος
